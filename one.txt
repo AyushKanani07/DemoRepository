@@ -4,4 +4,5 @@ adding a line for reset checking
 
 Now this file is not showen after reset.
 
-hello.
+good to go.
+
