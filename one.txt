@@ -4,8 +4,4 @@ adding a line for reset checking
 
 Now this file is not showen after reset.
 
-<<<<<<< HEAD
-hello.
-=======
-Edit for pulling purpose.
->>>>>>> eccba14f60efe7e1568d9a1462b40b479f3dfb5d
+good to go.
