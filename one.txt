@@ -3,3 +3,5 @@ This is branch for bug fix reason.
 adding a line for reset checking
 
 Now this file is not showen after reset.
+
+Edit for pulling purpose.
